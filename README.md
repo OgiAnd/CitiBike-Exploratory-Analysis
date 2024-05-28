@@ -1,1 +1,2 @@
 # CitiBike-Exploratory-Analysis
+### Welcome to CitiBike Exploratory Analysis! In this project, I delve into comprehensive exploratory data analysis techniques to uncover insightful patterns within the CitiBike dataset. Through meticulous examination, I dissect usage trends based on gender, scrutinize the varying usage patterns across different income brackets, and dissect the nuanced behaviors exhibited during weekdays versus weekends. By applying advanced analytical methodologies, I aim to offer data-driven insights that inform strategic decision-making processes.
